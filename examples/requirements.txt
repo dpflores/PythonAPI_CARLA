@@ -3,5 +3,5 @@ numpy; python_version < '3.0'
 numpy==1.18.5; python_version >= '3.0'
 pygame
 matplotlib
-open3d
+# open3d
 Pillow
